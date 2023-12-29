@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const port = 3000;
 const data = require("./data");
+const download = "http:192.168.0.109/";
 
 // Import the Instagram and Subway descriptions
 const {
@@ -29,7 +30,7 @@ app.get("/", (req, res) => {
       image4Url: data.twitchImage3,
       description: twitchDescription,
       category: data.category4,
-      downloadLink: data.twitchDownload,
+      downloadLink: download + "twitch.apk",
       size: data.twitchSize,
       rating: data.twitchRating,
     },
@@ -43,7 +44,7 @@ app.get("/", (req, res) => {
       image4Url: data.subwayImg3,
       description: subwayDescription,
       category: data.category2,
-      downloadLink: data.subwayDownload,
+      downloadLink: download + "subway.apk",
       size: data.subwaySize,
       rating: data.subwayRating,
     },
@@ -58,7 +59,7 @@ app.get("/", (req, res) => {
       image4Url: data.partImage3,
       description: pArtDescription,
       category: data.category3,
-      downloadLink: data.pArtDownload,
+      downloadLink: download + "picsart.apk",
       size: data.pArtSize,
       rating: data.pArtRating,
     },
@@ -73,7 +74,7 @@ app.get("/", (req, res) => {
       image4Url: data.youtubeImage3,
       description: youtubeDescription,
       category: data.category4,
-      downloadLink: data.youtubeDownload,
+      downloadLink: download + "youtube.apk",
       size: data.youtubeSize,
       rating: data.youtubeRating,
     },
@@ -88,7 +89,7 @@ app.get("/", (req, res) => {
       image4Url: data.geometryImage3,
       description: geometryDescription,
       category: data.category2,
-      downloadLink: data.geometryDownload,
+      downloadLink: download + "geometry.apk",
       size: data.geometrySize,
       rating: data.geometryRating,
     },
@@ -102,7 +103,7 @@ app.get("/", (req, res) => {
       image4Url: data.candyImage3,
       description: candyDescription,
       category: data.category2,
-      downloadLink: data.candyDownload,
+      downloadLink: download + "candy.apk",
       size: data.candySize,
       rating: data.candyRating,
     },
@@ -117,7 +118,7 @@ app.get("/", (req, res) => {
       image4Url: data.instaImg3,
       description: instagramDescription,
       category: data.category1,
-      downloadLink: data.instaDownload,
+      downloadLink: download + "instagram.apk",
       size: data.instagramSize,
       rating: data.instagramRating,
     },
@@ -132,7 +133,7 @@ app.get("/", (req, res) => {
       image4Url: data.vivaImage3,
       description: vivaDescription,
       category: data.category3,
-      downloadLink: data.vivaDownload,
+      downloadLink: download + "vivavideo.apk",
       size: data.vivaSize,
       rating: data.vivaRating,
     },
