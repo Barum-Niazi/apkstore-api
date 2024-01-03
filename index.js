@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
       image4Url: data.twitchImage3,
       description: twitchDescription,
       category: data.category4,
-      downloadLink: download + "twitch.apk",
+      downloadLink: data.twitchDownload,
       size: data.twitchSize,
       rating: data.twitchRating,
     },
