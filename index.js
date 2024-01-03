@@ -118,7 +118,7 @@ app.get("/", (req, res) => {
       image4Url: data.instaImg3,
       description: instagramDescription,
       category: data.category1,
-      downloadLink: download + "instagram.apk",
+      downloadLink: data.instaDownload,
       size: data.instagramSize,
       rating: data.instagramRating,
     },

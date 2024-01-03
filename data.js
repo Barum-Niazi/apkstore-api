@@ -18,7 +18,7 @@ const instaImg2 =
 const instaImg3 =
   "https://play-lh.googleusercontent.com/dn8LMP53ylZs4QPASjN_K76VDqhbqg7xgqvA6I36U8PhiGROjoQqxzkgVGG0oG0veoi7=w2560-h1440-rw";
 const instaDownload =
-  "https://d.apkpure.com/b/APK/com.instagram.android?version=latest";
+  "https://d.apkpure.com/b/APK/com.jrzheng.supervpnfree?version=latest";
 
 //subway surfers
 const subwayName = "Subway Surfers";
