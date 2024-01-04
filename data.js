@@ -18,7 +18,7 @@ const instaImg2 =
 const instaImg3 =
   "https://play-lh.googleusercontent.com/dn8LMP53ylZs4QPASjN_K76VDqhbqg7xgqvA6I36U8PhiGROjoQqxzkgVGG0oG0veoi7=w2560-h1440-rw";
 const instaDownload =
-  "https://d.apkpure.com/b/APK/com.jrzheng.supervpnfree?version=latest";
+  "https://dw51.uptodown.com/dwn/fIF0OQimSMgl6TFY9u67_e-deacann7FgK-3jkCgKkb7p_LWCw-OY3e7uECtdUtnNfWdLG4q5wXwSET0WKTyxnr0DTWZsMbx6Jkpg-9pLgQwtpWcvt8kNVFm3D6QSilQ/Z4GmY9hrqWubpPeu3IoWEmLcoDeoAFq-G3WlZoE8Dp7xgyFQ_Ai8gpcQWCN3dCf2Ook2Ea9_6UGtuIcburk0lL_c468ydDFnSLwVCq5ohuuwweFcEUPtQbafyme2afgT/Nch6HEfWtRcGegBuwGMCeHKA5E3RTuTApFXZj2nZMJAtGymWs6r2Obx2C3-1lWG62I9LDtnvIFF1m1HJtBi2apmHPJgmwKdUSkp2hQs6lVYutj3bCUjhd8VL9FAdpyoL/supervpn-fast-vpn-client-2-8-6.apk";
 
 //subway surfers
 const subwayName = "Subway Surfers";
