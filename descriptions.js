@@ -21,6 +21,15 @@ const twitchDescription =
 const vivaDescription =
   "VivaVideo is a Easy-to-use Video Editor and Pro Video Maker for creating mind-blowing videos! Our video editing app includes all the tools you need to edit videos and add eye-catching transitions.";
 
+const tiktokDescription =
+  "TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy.";
+
+const facebookDescription =
+  "Facebook is a social networking website where users can post comments, share photographs, and post links to news or other interesting content on the web, chat live, and watch short-form video.";
+
+const XDescription =
+  "X, formerly Twitter (2006–2023), is an online social media platform and microblogging service that distributes short messages of no more than 280 characters";
+
 exports.instagramDescription = instagramDescription;
 exports.subwayDescription = subwayDescription;
 exports.pArtDescription = pArtDescription;
@@ -29,3 +38,6 @@ exports.geometryDescription = geometryDescription;
 exports.candyDescription = candyDescription;
 exports.twitchDescription = twitchDescription;
 exports.vivaDescription = vivaDescription;
+exports.facebookDescription = facebookDescription;
+exports.tiktokDescription = tiktokDescription;
+exports.XDescription = XDescription;

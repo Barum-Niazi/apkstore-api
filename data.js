@@ -127,6 +127,48 @@ const vivaImage3 =
 const vivaDownload =
   "https://d.apkpure.com/b/APK/com.quvideo.xiaoying?version=latest";
 
+const facebookName = "Facebook";
+const facebookSize = "56.9MB";
+const facebookRating = "3.6";
+const facebookLogo =
+  "https://seeklogo.com/images/F/facebook-icon-logo-AEF3A8F447-seeklogo.com.png";
+const facebookImage1 =
+  "https://play-lh.googleusercontent.com/W_Y8ucZDrPOv9fBnDMF_s8y1e7NEsuw5_X3J3kE2dneQrzIB-K4Q4hv4bxcFuPnkhg=w2560-h1440-rw";
+const facebookImage2 =
+  "https://play-lh.googleusercontent.com/PTAbVSQOLpXQeVrzjQDNDUjPUp8C2Kr6PnO_Jh-p7s9eScuwZ4Y3x1U1W39rBeHieEg=w2560-h1440-rw";
+const facebookImage3 =
+  "https://play-lh.googleusercontent.com/kvvzjEmtQU0wDB3hUHyBuu0N2QRshAWu3RBTKEPZOisYgGBa3P3UxU71rYzLPHcqals=w2560-h1440-rw";
+const facebookDownload =
+  "https://r2-static-assets.androidapksfree.com/sdata/f5963091fb0fd7e683c0cec9e2025b7f/com.facebook.katana_v445.0.0.34.118-448014984_Android-8.0.apk";
+
+const Xname = "X";
+const Xsize = "117MB";
+const Xrating = "3.8";
+const Xlogo =
+  "https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1705273894~exp=1705274494~hmac=3394c27af2619824b85efd1082a8618128c8630c881a5a604faec098a07131f4";
+const Ximage1 =
+  "https://play-lh.googleusercontent.com/huBZ5ZaKXtBvqXQMtwp9SU9LeH6KvIqP7sMBpXQkB9mHjjUQlYK2t4Rn_RsdLFgeFEPw=w2560-h1440-rw";
+const Ximage2 =
+  "https://play-lh.googleusercontent.com/rRLqC0p4nV8A2IC5cf9-G1l9KTWyEnGZQzaSLSYy9UamxeDkac6kKjitjNMWVDZrFwV9=w2560-h1440-rw";
+const Ximage3 =
+  "https://play-lh.googleusercontent.com/dWMmEvB6g3pyR4iFZlcpUr_De49xbDA9cpOUp3ssKqCZtpd4nRO5nrcrmB8ag01upw=w2560-h1440-rw";
+const Xdownload =
+  "https://cdn.androidcombo.com/com.twitter.android/X_10.23.0-release.0_apkcombo.com.apk?ecp=Y29tLnR3aXR0ZXIuYW5kcm9pZC8xMC4yMy4wLXJlbGVhc2UuMC8zMTAyMzAwMDAuMWU3NjcwZTgyODViYjkxYzg0ZjI2MzA1M2VjOTgzODFjM2MxN2IyZi5hcGs%3D&iat=1705274097&sig=99deeef6becb2498cefe748a0da9f4f7&size=122240137&from=cf&version=old&lang=en&fp=7105e243a29d9eb2be86e2a3be84c696&ip=205.164.152.129";
+
+const tiktokName = "TikTok";
+const tiktokSize = "269.3MB";
+const tiktokRating = "4.3";
+const tiktokLogo =
+  "https://img.freepik.com/premium-vector/tik-tok-logo_578229-290.jpg";
+const tiktokImage1 =
+  "https://play-lh.googleusercontent.com/REjrZueuCUE5Vai7BFnuJKrrYtOoBoVK2dAjlU-Y31JskoJ-h9M59QznLhAYfaGDq0A=w2560-h1440-rw";
+const tiktokImage2 =
+  "https://play-lh.googleusercontent.com/cl-1Gtu-UncUx1S8LtvafD9hnIMDihgO4WGqJ_AhXaL-gfPeRWbfLfDN0HoxyVgVMg=w2560-h1440-rw";
+const tiktokImage3 =
+  "https://play-lh.googleusercontent.com/PJBLJaPnzjr_YGMIOoXA2gsUWQEvfWO47VVJMBtV_VMzrPRBtUNzYUTOBNtIGW6Ai_s=w2560-h1440-rw";
+const tiktokDownload =
+  "https://r-static-assets.androidapks.com/rdata/a7a333fc4830fc251a2bd17e661d81f9/com.zhiliaoapp.musically_v32.7.6-2023207060_Android-5.0.apk";
+
 module.exports = {
   category1,
   category2,
@@ -196,4 +238,28 @@ module.exports = {
   vivaImage2,
   vivaImage3,
   vivaDownload,
+  facebookName,
+  facebookSize,
+  facebookRating,
+  facebookLogo,
+  facebookImage1,
+  facebookImage2,
+  facebookImage3,
+  facebookDownload,
+  Xname,
+  Xsize,
+  Xrating,
+  Xlogo,
+  Ximage1,
+  Ximage2,
+  Ximage3,
+  Xdownload,
+  tiktokName,
+  tiktokSize,
+  tiktokRating,
+  tiktokLogo,
+  tiktokImage1,
+  tiktokImage2,
+  tiktokImage3,
+  tiktokDownload,
 };
