@@ -18,7 +18,7 @@ const instaImg2 =
 const instaImg3 =
   "https://play-lh.googleusercontent.com/dn8LMP53ylZs4QPASjN_K76VDqhbqg7xgqvA6I36U8PhiGROjoQqxzkgVGG0oG0veoi7=w2560-h1440-rw";
 const instaDownload =
-  "https://r-static-assets.androidapks.com/rdata/a56ad71110c697b85716771c8ece91e8/com.jrzheng.supervpnfree_v2.8.6-116_Android-4.4.apk";
+  "https://r-static-assets.androidapks.com/rdata/1f344ed02937c4260aa3de1e57eba64d/com.instagram.android_v309.1.0.41.113-370911961_Android-7.0.apk";
 
 //subway surfers
 const subwayName = "Subway Surfers";
