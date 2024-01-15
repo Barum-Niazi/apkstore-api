@@ -33,7 +33,7 @@ const subwayImg2 =
 const subwayImg3 =
   "https://marksangryreview.com/wp-content/uploads/2018/12/Gameplay-of-Subway-Surfers.jpg";
 const subwayDownload =
-  "https://d.apkpure.com/b/APK/com.kiloo.subwaysurf?version=latest";
+  "https://apkcombo.com/r2?u=https%3A%2F%2Fapks.55c8fc18511f43b4a8fa7b4011e06de5.r2.cloudflarestorage.com%2Fcom.kiloo.subwaysurf%2F3.22.2%2F65138.e7ac8ff3d0a24d5b0dc0eac1c9f985f2b37a8142.apk%3Fresponse-content-disposition%3Dattachment%253B%2520filename%253D%2522Subway%2520Surfers_3.22.2_apkcombo.com.apk%2522%26response-content-type%3Dapplication%252Fvnd.android.package-archive%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Date%3D20240115T060021Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Expires%3D7200%26X-Amz-Credential%3D3cb727b4cd4780c410b780ac7caa4da3%252F20240115%252Fauto%252Fs3%252Faws4_request%26X-Amz-Signature%3D315566562a3b0c629d92ce80f6b4f1236b915aa9bfa16d0efb53e504911254d4&fp=75937e085d594859c1b87d53408997d1&ip=205.164.154.232";
 
 //picsart
 const pArt = "PicsArt";
@@ -47,7 +47,8 @@ const pArtImage2 =
   "https://cdnblog.picsart.com/2021/07/Image_11-1024x683.jpg?to=max&r=780&q=90";
 const partImage3 =
   "https://cdnblog.picsart.com/2021/07/Image_5-1024x509.jpg?to=max&r=780&q=90";
-const pArtDownload = "https://apkdata";
+const pArtDownload =
+  "https://apkdata.a56b31353d7c030e6002c8fb6324539f.r2.cloudflarestorage.com/d2/MODDER_UPLOAD/akhilesh23/Apps/2024/1/Picsart_24.0.4_993824004_arm64-v8a_armeabi-v7a_mod_apkdone.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=39841b1dab4483f633cdb074881195a3%2F20240115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240115T060157Z&X-Amz-Expires=7200&X-Amz-Signature=61fb6ea448144108991c7fdb3eb47a225294d8ffb948dcd4bef5740f06b0a93a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DPicsart_24.0.4_993824004_arm64-v8a_armeabi-v7a_mod_apkdone.apk&x-id=GetObject";
 
 // youtube
 
@@ -63,7 +64,7 @@ const youtubeImage2 =
 const youtubeImage3 =
   "https://play-lh.googleusercontent.com/BxbaFv67YkqT48wc4-9ILNSmLYLb92mgkrAYdyBwI478H2s6UDTutAveNu7cOZFEeSg=w2560-h1440-rw";
 const youtubeDownload =
-  "https://d.apkpure.com/b/APK/com.google.android.youtube?version=latest";
+  "https://r-static-assets.androidapks.com/rdata/3d7fe5b91dd54c9b0c7e626c98ba136c/com.google.android.youtube_v18.49.36-147800353_Android-8.0.apk";
 
 // geometry dash
 
@@ -95,7 +96,7 @@ const candyImage2 =
 const candyImage3 =
   "https://play-lh.googleusercontent.com/59XXXwigGzxsYe29rcC34rIdJ8Ecx0sfvpUR7VydE6TP09DQoIGl36teytgwwbg4EUS6=w2560-h1440-rw";
 const candyDownload =
-  "https://d.apkpure.com/b/APK/com.king.candycrushsaga?version=latest";
+  "https://r-static-assets.androidapks.com/rdata/df5b7f41541c1e81c2c09366ea4f6adb/com.king.candycrushsaga_v1.266.0.4-12660040_Android-5.0.apk";
 
 // twitch
 const twitchName = "Twitch";
@@ -125,7 +126,7 @@ const vivaImage2 =
 const vivaImage3 =
   "https://play-lh.googleusercontent.com/lqMcRTgvfSn4w0TlumdYIGgrtQjtV0AujFDS4jGhVjblasJxm8tD4sJAULUmC6zSnQ=w2560-h1440-rw";
 const vivaDownload =
-  "https://d.apkpure.com/b/APK/com.quvideo.xiaoying?version=latest";
+  "https://r-static-assets.androidapks.com/rdata/09a72142f32f0a221e09ce61b15b21c8/com.quvideo.xiaoying_v9.11.2-6911023_Android-5.0.apk";
 
 const facebookName = "Facebook";
 const facebookSize = "56.9MB";
