@@ -112,7 +112,7 @@ module.exports = [
       "https://r-static-assets.androidapks.com/rdata/7018ff1af6fbf26dffa2d9e2206e4d58/tv.twitch.android.app_v17.3.0-1703006_Android-5.0.apk",
   },
   {
-    category: "Social",
+    category: "Editor",
     name: "VivaVideo",
     size: "141.3MB",
     rating: "4.4",
