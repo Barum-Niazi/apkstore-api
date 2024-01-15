@@ -2,7 +2,9 @@ const express = require("express");
 const app = express();
 const port = 3000;
 const appData = require("./data.js");
-// Import the Instagram and Subway descriptions
+const fs = require("fs");
+
+app.use(express.json());
 
 // Send the JSON response with image URLs, ID, descriptions, and download link
 app.get("/", (req, res) => {
@@ -22,6 +24,26 @@ app.get("/", (req, res) => {
   }));
 
   res.json(response);
+});
+
+app.post("/add-app", (req, res) => {
+  const newApp = req.body; // Assuming the body has all the necessary fields
+  // Optional: Validate the newApp object here
+
+  appData.push(newApp); // Add the new app data to the appData list
+
+  // Write the updated appData to data.js
+  fs.writeFile(
+    "./data.js",
+    `module.exports = ${JSON.stringify(appData, null, 2)};`,
+    (err) => {
+      if (err) {
+        res.status(500).send("Error writing to file");
+        return;
+      }
+      res.status(201).send("App added successfully");
+    }
+  );
 });
 
 // Start the server
