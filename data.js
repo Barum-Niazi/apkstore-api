@@ -29,7 +29,7 @@ module.exports = [
     description:
       "Subway Surfers is a single player mobile gaming app and website developed by Kiloo. The aim of the game is to outrun a train inspector while dodging oncoming trains, barriers and other objects. Collecting coins on the way gives players advantages such as hover boards and high scores.",
     downloadLink:
-      "https://apkcombo.com/r2?u=https%3A%2F%2Fapks.55c8fc18511f43b4a8fa7b4011e06de5.r2.cloudflarestorage.com%2Fcom.kiloo.subwaysurf%2F3.22.2%2F65138.e7ac8ff3d0a24d5b0dc0eac1c9f985f2b37a8142.apk%3Fresponse-content-disposition%3Dattachment%253B%2520filename%253D%2522Subway%2520Surfers_3.22.2_apkcombo.com.apk%2522%26response-content-type%3Dapplication%252Fvnd.android.package-archive%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Date%3D20240115T060021Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Expires%3D7200%26X-Amz-Credential%3D3cb727b4cd4780c410b780ac7caa4da3%252F20240115%252Fauto%252Fs3%252Faws4_request%26X-Amz-Signature%3D315566562a3b0c629d92ce80f6b4f1236b915aa9bfa16d0efb53e504911254d4&fp=75937e085d594859c1b87d53408997d1&ip=205.164.154.232",
+      "https://dw56.uptodown.com/dwn/A7fYxWPb6DDIkvjBeIRjjY70y3zbpw-t9byHVikbc_gSM05I9luKaABo_IMqPH8c7K4oZJBp2mX9iXHswbd3ftHRGC4sWpKKVVS-gNTkHtBHTNsjlZubSDsEpHn0-MHc/nCX0HEO27wqDHYKdewynLqZYhDL1mGhGpuIl0Mong8omnPXjslfen4uRpyhM2CQ7knvMdoOT8-PI99mLILZ1ofio88-3ldFajxkDVMXGvhL-hiO-QJ09S3sklIAKNYfR/Y3iKwf_zNmejNPFo3JVQvSQN46jtWFmjT3TcAKlg51-M2s_9oaOtdxUrs-ZgCzNiIoxxFins-8vE7gTDxLKukg==/subway-surfers-3-23-0.apk",
   },
   {
     category: "Editor",
@@ -45,7 +45,7 @@ module.exports = [
     description:
       "Picsart Photo & Video Editor - a photo and video editing app with tools to add filters and various effects, with social network integration. The app is free to use and offers in-app purchases of stickers and other graphic elements.",
     downloadLink:
-      "https://apkdata.a56b31353d7c030e6002c8fb6324539f.r2.cloudflarestorage.com/d2/MODDER_UPLOAD/akhilesh23/Apps/2024/1/Picsart_24.0.4_993824004_arm64-v8a_armeabi-v7a_mod_apkdone.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=39841b1dab4483f633cdb074881195a3%2F20240115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240115T060157Z&X-Amz-Expires=7200&X-Amz-Signature=61fb6ea448144108991c7fdb3eb47a225294d8ffb948dcd4bef5740f06b0a93a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DPicsart_24.0.4_993824004_arm64-v8a_armeabi-v7a_mod_apkdone.apk&x-id=GetObject",
+      "https://files.picsartapk.net/dl/picsartapk.net-v24.0.2-premium.apk?_gl=1*ghhjo6*_ga*MzEyNzI4MzQ0LjE3MDUyOTg0NzM.*_ga_H8JEDKC87M*MTcwNTM4NzQ2MS4yLjAuMTcwNTM4NzQ2MS4wLjAuMA..",
   },
   {
     category: "Entertainment",
